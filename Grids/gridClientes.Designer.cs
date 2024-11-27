@@ -38,19 +38,17 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Black", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(468, 31);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(351, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(139, 38);
+            this.label1.Size = new System.Drawing.Size(113, 31);
             this.label1.TabIndex = 15;
             this.label1.Text = "Clientes";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(935, 76);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Location = new System.Drawing.Point(701, 62);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 28);
+            this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 16;
             this.button1.Text = "+ Adicionar";
             this.button1.UseVisualStyleBackColor = true;
@@ -60,25 +58,22 @@
             // 
             this.dtgClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgClientes.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.dtgClientes.Location = new System.Drawing.Point(35, 112);
-            this.dtgClientes.Margin = new System.Windows.Forms.Padding(4);
+            this.dtgClientes.Location = new System.Drawing.Point(26, 91);
             this.dtgClientes.MultiSelect = false;
             this.dtgClientes.Name = "dtgClientes";
             this.dtgClientes.RowHeadersWidth = 51;
-            this.dtgClientes.Size = new System.Drawing.Size(1000, 372);
+            this.dtgClientes.Size = new System.Drawing.Size(750, 302);
             this.dtgClientes.TabIndex = 17;
-            this.dtgClientes.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgClientes_CellClick);
             this.dtgClientes.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgClientes_CellDoubleClick);
             // 
             // gridClientes
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 497);
+            this.ClientSize = new System.Drawing.Size(800, 404);
             this.Controls.Add(this.dtgClientes);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "gridClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Clientes";

@@ -115,8 +115,7 @@
               "RelativeToolTip": "Formularios\\frmClientes.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:14:24.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:14:24.626Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "Home.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:12:43.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:12:43.31Z"
             },
             {
               "$type": "Document",
@@ -141,8 +139,7 @@
               "RelativeToolTip": "Persistencia\\ConexaoDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:12:19.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:12:19.435Z"
             },
             {
               "$type": "Document",
@@ -154,8 +151,7 @@
               "RelativeToolTip": "Classes\\Cliente.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAA1wGsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:12:10.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:12:10.697Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Formularios\\frmClientes.cs [Design]",
               "RelativeToolTip": "Formularios\\frmClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:12:05.491Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T17:12:05.491Z"
             },
             {
               "$type": "Document",
@@ -178,8 +173,7 @@
               "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Grids\\gridClientes.cs [Design]",
               "RelativeToolTip": "Grids\\gridClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:11:57.836Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T17:11:57.836Z"
             },
             {
               "$type": "Document",
@@ -190,8 +184,7 @@
               "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Home.cs [Design]",
               "RelativeToolTip": "Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:10:48.406Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T17:10:48.406Z"
             }
           ]
         }

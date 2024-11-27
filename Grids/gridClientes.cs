@@ -44,12 +44,6 @@ namespace CRUDC_.Grids
             dtgClientes.DataSource = tblRetorno;
         }
 
-        private void dtgClientes_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-           
-
-        }
-
         private void dtgClientes_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)

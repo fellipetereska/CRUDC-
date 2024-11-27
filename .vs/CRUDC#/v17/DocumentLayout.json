@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\",
+  "WorkspaceRootPath": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|c:\\users\\felli\\documents\\dev\\estudos\\crudc#\\grids\\gridclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|c:\\users\\felli\\documents\\dev\\estudos\\revisao\\crudc#\\grids\\gridclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:grids\\gridclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\persistencia\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:persistencia\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\grids\\gridclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\grids\\gridclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:grids\\gridclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\persistencia\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:persistencia\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F06F1D0-6769-491E-BC47-3CEDA6AD9CB6}|CRUDC#.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,37 +93,46 @@
               "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "gridClientes.cs",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Grids\\gridClientes.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Grids\\gridClientes.cs",
               "RelativeDocumentMoniker": "Grids\\gridClientes.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Grids\\gridClientes.cs",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Grids\\gridClientes.cs",
               "RelativeToolTip": "Grids\\gridClientes.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAArwD8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAApwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T17:17:28.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Formularios\\frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Formularios\\frmClientes.cs",
               "RelativeDocumentMoniker": "Formularios\\frmClientes.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Formularios\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Formularios\\frmClientes.cs",
               "RelativeToolTip": "Formularios\\frmClientes.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAYwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:14:24.626Z"
+              "WhenOpened": "2024-11-07T17:14:24.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Home.cs",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Home.cs",
               "RelativeToolTip": "Home.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ConexaoDB.cs",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Persistencia\\ConexaoDB.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Persistencia\\ConexaoDB.cs",
               "RelativeDocumentMoniker": "Persistencia\\ConexaoDB.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Persistencia\\ConexaoDB.cs",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Persistencia\\ConexaoDB.cs",
               "RelativeToolTip": "Persistencia\\ConexaoDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Classes\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Classes\\Cliente.cs",
               "RelativeDocumentMoniker": "Classes\\Cliente.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Classes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Classes\\Cliente.cs",
               "RelativeToolTip": "Classes\\Cliente.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAA1wGsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,34 +164,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "frmClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Formularios\\frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Formularios\\frmClientes.cs",
               "RelativeDocumentMoniker": "Formularios\\frmClientes.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Formularios\\frmClientes.cs [Design]",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Formularios\\frmClientes.cs [Design]",
               "RelativeToolTip": "Formularios\\frmClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:12:05.491Z"
+              "WhenOpened": "2024-11-07T17:12:05.491Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "gridClientes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Grids\\gridClientes.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Grids\\gridClientes.cs",
               "RelativeDocumentMoniker": "Grids\\gridClientes.cs",
-              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Grids\\gridClientes.cs [Design]",
+              "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Grids\\gridClientes.cs [Design]",
               "RelativeToolTip": "Grids\\gridClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:11:57.836Z"
+              "WhenOpened": "2024-11-07T17:11:57.836Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\felli\\Documents\\Dev\\estudos\\Revisao\\CRUDC#\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
               "ToolTip": "C:\\Users\\felli\\Documents\\Dev\\estudos\\CRUDC#\\Home.cs [Design]",
-              "RelativeToolTip": "Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\CRUDC#\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T17:10:48.406Z"
             }
